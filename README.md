@@ -1,4 +1,4 @@
-# GADS-PRACTICE-PROJECT PART1
+# GADS-PRACTICE-PROJECT PART 1 and 2
 This project is for the ongoing GADS 2020 scholarship.
 
 Task: Complete of 10-15 selected hands-on labs on Qwiklabs and submitting proof of such per screenshot based on the email received
